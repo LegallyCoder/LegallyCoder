@@ -1,4 +1,4 @@
-### He
+### Hello, I am a Dev
 
 <!--
 **LegallyCoder/LegallyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
